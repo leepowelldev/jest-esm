@@ -1,0 +1,18 @@
+{
+  "name": "jest-esm",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "NODE_OPTIONS=--experimental-vm-modules jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is": "^3.3.0",
+    "jest": "^27.0.6",
+    "prettier": "^2.3.2",
+    "string-length": "^5.0.0"
+  }
+}
